@@ -7,7 +7,7 @@ int main()
 {
     int k = 0;
     cout << "Hello, world!" << endl;
-    cout << "7";
+    cout << "5";
     system("pause"); // Только для тех, у кого MS Visual Studio
     return 0;
 }
